@@ -1,0 +1,35 @@
+n6
+2026-09-29T16:04:15.997Z | 200 | v2 | dummy-service-fff58496c-t4fjs
+2026-09-29T16:04:17.500Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:19.098Z | 200 | v2 | dummy-service-fff58496c-t4fjs
+2026-09-29T16:04:20.667Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:22.164Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:23.772Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:25.418Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:27.049Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:28.538Z | 200 | v2 | dummy-service-fff58496c-t4fjs
+2026-09-29T16:04:29.989Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:31.428Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:32.574Z | 200 | v2 | dummy-service-fff58496c-h7vn6
+2026-09-29T16:04:33.804Z | 200 | v2 | dummy-service-fff58496c-t4fjs
+2026-09-29T16:04:34.967Z | 200 | v2 | dummy-service-fff58496c-t4fjs
+
+========== SUMMARY ==========
+Total requests : 21
+Successful     : 21
+Failed         : 0
+
+Versions observed:
+
+Name Count
+---- -----
+v2      21
+
+
+
+Instances observed:
+
+Name                          Count
+----                          -----
+dummy-service-fff58496c-t4fjs     6
+dummy-service-fff58496c-h7vn6    15
