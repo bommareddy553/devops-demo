@@ -258,10 +258,6 @@ Start:
 ./scripts/deploy-check.sh v3-broken 120s
 ```
 
-This command is intentionally expected to fail.
-
-Useful evidence:
-
 ```bash
 kubectl rollout status deployment/dummy-service --timeout=20s || true
 kubectl get deployment
